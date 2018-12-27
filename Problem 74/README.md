@@ -15,6 +15,6 @@ For example, given N = 6 and X = 12, you should return 4, since the multiplicati
 
 |  5 | 10 | 15 | 20 | 25 | 30 |
 
-| 6 | 12 | 18 | 24 | 30 | 36 |
+|  6 | 12 | 18 | 24 | 30 | 36 |
 ```
 And there are `4 12's` in the table.
